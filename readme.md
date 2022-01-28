@@ -16,11 +16,11 @@ This Wrapper is a Discum Copy With Addons, original one is made by **Merubokkusu
 
 How to install Discum-Remaded
 
-```python
+```bash
   python -m pip install --user --upgrade git+https://github.com/discummer/discum-remaded.git#egg=discum-remaded
 ```
 or
-```
+```bash
   pip install discumremaded
 ```
     
@@ -80,7 +80,7 @@ bot.gateway.run(auto_reconnect=True)
 - [x] Make Github Repo
 - [x] Make More Functions
 - [x] Publish Github Repo
-- [ ] Upload To PyPi
+- [x] Upload To PyPi
 - [ ] Everything
 ## Support
 
